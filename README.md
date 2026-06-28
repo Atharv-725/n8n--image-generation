@@ -1,4 +1,4 @@
-# n8n--image-generation
+# n8n-image_generation
 
 An automated, multi-step AI workflow built in **n8n** that researches a topic, writes a social-media post, generates a matching image, and delivers the finished result — all from a single trigger.
 
